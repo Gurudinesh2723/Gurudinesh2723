@@ -1,19 +1,26 @@
 <h1 align="center">Hi 👋, I'm Guru Dinesh Reddy</h1>
-<h3 align="center">🚀 Prompt Engineer | Generative AI Developer | Full Stack Developer</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Prompt+Engineer;Generative+AI+Developer;Full+Stack+Developer&center=true&width=500&height=50">
+</p>
+
+<h3 align="center">🚀 Building AI-powered solutions & scalable web applications</h3>
 
 ---
 
-## 🧠 About Me:
-- 💻 Software Developer passionate about building scalable AI solutions  
-- 🤖 Strong in C++, DSA & problem solving  
-- 🧠 Passionate about AI, Machine Learning & impactful innovations  
-- 🚀 Built projects like Recipe Generator & AI-based systems  
-- 📈 Continuously learning, improving, and growing in tech  
+## 🧠 About Me
+
+* 💻 Software Developer passionate about building scalable AI & full-stack applications
+* 🤖 Skilled in Python, React, Django & OpenAI API
+* 🧠 Strong in Data Structures, Algorithms & problem solving
+* 🚀 Built real-world projects like Leaf Disease Detection & Recipe Generator
+* 📈 Continuously learning Generative AI, Deep Learning & system design
 
 ---
 
-## 🌐 Socials:
-<p align="left">
+## 🌐 Connect with Me
+
+<p align="center">
 <a href="https://www.linkedin.com/in/gurudineshreddy">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
@@ -27,28 +34,49 @@
 
 ---
 
-## ⚙️ Tech Stack:
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,django,mysql,git,github,html,css,pytorch" />
+## ⚙️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,django,mysql,html,css,git,github,pytorch" />
 </p>
 
 ---
 
-## 📊 GitHub Stats:
-<p>
+## 🚀 Projects
+
+* 🌿 **Leaf Disease Detection System** – CNN-based model with FastAPI backend for real-time predictions
+* 🍳 **Recipe Generator** – AI-powered app using OpenAI API with user dashboard & voice support
+* 📚 **Library Management System** – Java (JFrame) + MySQL with multi-user roles
+* 📊 **Amazon Review Analysis** – ML & NLP model for rating prediction and classification
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Gurudinesh2723&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak:
-<p>
+## 🔥 GitHub Streak
+
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gurudinesh2723&theme=tokyonight" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies:
-<p>
+## 🏆 GitHub Trophies
+
+<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Gurudinesh2723&theme=tokyonight" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Gurudinesh2723&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
