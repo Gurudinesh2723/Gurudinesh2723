@@ -53,8 +53,9 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gurudinesh2723&show_icons=true&theme=tokyonight&hide_border=true" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gurudinesh2723&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 ---
 
 ## 🔥 GitHub Streak
@@ -67,8 +68,9 @@
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Gurudinesh2723&theme=tokyonight&no-frame=true&row=1&column=6" />>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gurudinesh2723&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
 ---
 
 ## 👀 Profile Views
